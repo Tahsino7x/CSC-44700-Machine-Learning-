@@ -1,4 +1,4 @@
-# CSC-44700-Machine-Learning-
+# CSC-44700-Machine-Learning
 
 (This is Assignment 1)
 
